@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Simple Recyclerview</string>
+    <string name="app_name">Students</string>
+    <string name="students">Students</string>
+    <string name="data_empty">Data Empty</string>
+    <string name="no_students_yet">No students yet...</string>
+    <string name="data_not_found">Data not found</string>
+    <string name="city">City</string>
+    <string name="student_s_name">Student\'s Name</string>
+    <string name="school">School</string>
 </resources>
